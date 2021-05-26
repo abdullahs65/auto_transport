@@ -1,0 +1,2 @@
+class ShuttlesController < ApplicationController
+end
